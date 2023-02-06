@@ -2,7 +2,7 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ & ᴀɴɪᴍᴀᴛɪᴏɴ ᴀʀᴛɪꜱᴛ
-- 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 [ᴛᴡɪᴛᴄʜᴇʀꜱᴛᴜᴅɪᴏ](https://www.instagram.com/twitcherstudio/)
+- 💼 Animation Designer [ᴛᴡɪᴛᴄʜᴇʀꜱᴛᴜᴅɪᴏ](https://www.instagram.com/twitcherstudio/)
 - 🎓 ꜱᴏꜰᴛᴡᴀʀᴇ ᴇɴɢɪɴᴇᴇʀɪɴɢ ɢʀᴀᴅᴜᴀᴛᴇ ᴏꜰ ʙᴀʜʀɪᴀ ᴜɴɪᴠᴇʀꜱɪᴛʏ ɪꜱʟᴀᴍᴀʙᴀᴅ, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸1
 - :computer:  ᴍᴀᴄʜɪɴᴇ ʟᴇᴀʀɴɪɴɢ ᴇɴᴛʜᴜꜱɪᴀꜱᴛ
 
