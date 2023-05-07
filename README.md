@@ -12,7 +12,7 @@
 ```ʏᴀᴍʟ
 Completing Harvard [CS50](https://www.edx.org/course/cs50s-introduction-to-programming-with-python) - Intro to python course by david J malan. 
 ʟᴇᴀʀɴɪɴɢ ᴘʏᴛʜᴏɴ
-Learning ᴡᴇʙ 3.0
+Learning Data Analysis
 ```
 
 
