@@ -1,9 +1,9 @@
 
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ
-- 🎓 ꜱᴏꜰᴛᴡᴀʀᴇ ᴇɴɢɪɴᴇᴇʀɪɴɢ ɢʀᴀᴅᴜᴀᴛᴇ ᴏꜰ ʙᴀʜʀɪᴀ ᴜɴɪᴠᴇʀꜱɪᴛʏ ɪꜱʟᴀᴍᴀʙᴀᴅ, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸1
-- :computer:  ᴍᴀᴄʜɪɴᴇ ʟᴇᴀʀɴɪɴɢ ᴇɴᴛʜᴜꜱɪᴀꜱᴛ
+- 🖥 Software Developer
+- 🎓 Software Engineering Graduate
+- :computer:  Devops Enthusiast
 
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
