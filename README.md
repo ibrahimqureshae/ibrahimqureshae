@@ -2,7 +2,7 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Software Developer
-- 🎓 Masters Research in Computer & Systems Engineering, TU Ilmenau ![image](https://github.com/ibrahimqureshae/ibrahimqureshae/assets/38296248/372d6bfb-15d5-424d-9c82-fa86be4d17a1 =20x20)
+- 🎓 Masters Research in Computer & Systems Engineering, TU Ilmenau :de:
 
 - :computer:  Devops Enthusiast
 
