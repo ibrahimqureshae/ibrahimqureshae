@@ -9,9 +9,8 @@
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```ʏᴀᴍʟ
-Completing Harvard [CS50](https://www.edx.org/course/cs50s-introduction-to-programming-with-python) - Intro to python course by david J malan. 
-ʟᴇᴀʀɴɪɴɢ ᴘʏᴛʜᴏɴ
-Learning Data Analysis
+Studying Masters Research in Computer & Systems Engineering, TU Ilmenau 🇩🇪
+Learning Django
 ```
 
 
