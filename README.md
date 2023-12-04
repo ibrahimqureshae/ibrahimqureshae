@@ -2,14 +2,15 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Software Developer
-- 🎓 Software Engineering Graduate
+- 🎓 Masters Research in Computer & Systems Engineering, TU Ilmenau ![image](https://github.com/ibrahimqureshae/ibrahimqureshae/assets/38296248/372d6bfb-15d5-424d-9c82-fa86be4d17a1)
+
 - :computer:  Devops Enthusiast
 
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```ʏᴀᴍʟ
-Studying Masters Research in Computer & Systems Engineering, TU Ilmenau 🇩🇪
+
 Learning Django
 ```
 
