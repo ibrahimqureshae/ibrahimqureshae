@@ -4,7 +4,7 @@
 - 🖥 Software Developer
 - 🎓 Masters Research in Computer & Systems Engineering, TU Ilmenau :de:
 
-- :computer:  Devops Enthusiast
+- :computer:  
 
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
