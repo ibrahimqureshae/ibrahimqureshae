@@ -13,8 +13,8 @@ Learning Automation
 
 
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
-  - Backend Developer
-  - 𝙰𝚍𝚍 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 ᴛᴏ ʟᴀɴɢᴜᴀɢᴇꜱ ɪ ᴋɴᴏᴡ
+  - Software Testing
+  - Python Automation
   - Learn Devops
 - 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
 	- ᴛʀᴀᴠᴇʟ ᴀʀᴏᴜɴᴅ ᴛʜᴇ ᴡᴏʀʟᴅ!
