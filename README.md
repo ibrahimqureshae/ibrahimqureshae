@@ -2,7 +2,7 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Software Developer
-- 🎓 Masters Research in Computer & Systems Engineering, TU Ilmenau :de:
+- 🎓 Masters Research in Computer & Systems Engineering
 
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
