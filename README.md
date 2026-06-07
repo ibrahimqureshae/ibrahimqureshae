@@ -24,6 +24,4 @@
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```ʏᴀᴍʟ
-Agentic AI
-Python + LLM tooling
-n8n workflow automation
+Building stuff
